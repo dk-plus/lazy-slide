@@ -1,5 +1,5 @@
 # lazy-slide
-> 简单就是美，只需要修改`html`就能做出ppt。[示例]()
+> 简单就是美，只需要修改`html`就能做出ppt。[示例](https://dk-plus.github.io/lazy-slide/)
 
 ## Usage
 1. `.slide`代表一张ppt，只需要在里面加入html元素即可，js会自动判断ppt的页数进行播放。
